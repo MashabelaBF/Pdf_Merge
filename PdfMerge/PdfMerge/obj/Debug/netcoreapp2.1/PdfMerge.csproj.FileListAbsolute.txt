@@ -1,0 +1,11 @@
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\bin\Debug\netcoreapp2.1\PdfMerge.deps.json
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\bin\Debug\netcoreapp2.1\PdfMerge.runtimeconfig.json
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\bin\Debug\netcoreapp2.1\PdfMerge.runtimeconfig.dev.json
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\bin\Debug\netcoreapp2.1\PdfMerge.dll
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\bin\Debug\netcoreapp2.1\PdfMerge.pdb
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\obj\Debug\netcoreapp2.1\PdfMerge.csprojAssemblyReference.cache
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\obj\Debug\netcoreapp2.1\PdfMerge.csproj.CoreCompileInputs.cache
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\obj\Debug\netcoreapp2.1\PdfMerge.AssemblyInfoInputs.cache
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\obj\Debug\netcoreapp2.1\PdfMerge.AssemblyInfo.cs
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\obj\Debug\netcoreapp2.1\PdfMerge.dll
+D:\Users\Bran.mashabela\source\repos\PdfMerge\PdfMerge\obj\Debug\netcoreapp2.1\PdfMerge.pdb
